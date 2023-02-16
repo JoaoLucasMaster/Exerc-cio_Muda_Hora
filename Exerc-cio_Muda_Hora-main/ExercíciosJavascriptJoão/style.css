@@ -1,0 +1,39 @@
+body{
+background:rgb(11, 250, 119);
+font: normal 16pt Arial;
+}
+
+header{
+    padding-top: 50px;
+color: rgb(22, 15, 17);
+text-align: center;
+}
+
+
+section{
+background: rgba(8, 235, 205, 0.63);
+border-radius: 10px;
+padding: 10px;
+width: 400px;
+margin: auto;
+box-shadow: 4px 4px 20px;
+}
+
+footer{
+color: rgb(0, 3, 1);
+text-align: center;
+font-style:oblique
+}
+
+img{
+    width:400px;
+    height: 300px;
+    border-radius: 15%;
+}
+#mensagem{
+    text-align: center;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-family: Times New Roman;
+    color: rgb(15, 17, 15);
+}
